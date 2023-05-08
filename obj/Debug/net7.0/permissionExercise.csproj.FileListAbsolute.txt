@@ -1,0 +1,15 @@
+C:\Users\seren\CsharpProjects\permissionExercise\bin\Debug\net7.0\permissionExercise.exe
+C:\Users\seren\CsharpProjects\permissionExercise\bin\Debug\net7.0\permissionExercise.deps.json
+C:\Users\seren\CsharpProjects\permissionExercise\bin\Debug\net7.0\permissionExercise.runtimeconfig.json
+C:\Users\seren\CsharpProjects\permissionExercise\bin\Debug\net7.0\permissionExercise.dll
+C:\Users\seren\CsharpProjects\permissionExercise\bin\Debug\net7.0\permissionExercise.pdb
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.csproj.AssemblyReference.cache
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.AssemblyInfoInputs.cache
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.AssemblyInfo.cs
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.csproj.CoreCompileInputs.cache
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.dll
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\refint\permissionExercise.dll
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.pdb
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\permissionExercise.genruntimeconfig.cache
+C:\Users\seren\CsharpProjects\permissionExercise\obj\Debug\net7.0\ref\permissionExercise.dll
